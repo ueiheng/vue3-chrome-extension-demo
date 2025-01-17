@@ -21,13 +21,21 @@
 npm run build
 ```
 
-4. Load the unzipped extension in your browser
+4. Load the unzipped extension in your browser.
 
 5. All you need to do is use the `npm run build` command every time you finish writing your code, and the browser plugin will automatically reload. 
 
-6. If you want to automate packaging after you've written code, maybe `vite-plugin-watch` can help you
+6. If you want to automate packaging after you've written code, maybe `vite-plugin-watch` can help you.
 
 https://www.npmjs.com/package/vite-plugin-watch
+
+---
+
+  🚀 you can easily use `http://localhost:5173/` to see vue page, Debugging just like we would with a Vue project.
+
+
+  After confirmation, package to see the effect of the plug-in
+
 
 # end
  If it helps you, a star⭐ is the best.
